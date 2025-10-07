@@ -1,57 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <!-- 1. اطلاعات اصلی پادکست شما -->
-    <title>نام پادکست سپردکس (SEPORDEX)</title>
+    <!-- 1. اطلاعات اصلی پادکست  -->
+    <title>SeporDex سپردکس(SEPORDEX)</title>
     <link>https://sepordex.github.io</link>
     <language>fa-ir</language>
     <atom:link href="https://sepordex.github.io/rss.xml" rel="self" type="application/rss+xml" />
-    <description>توضیحات کوتاه درباره محتوای پادکست (مثلاً: پادکست تخصصی در مورد تکنولوژی، تجارت و اتوماسیون صنعتی)</description>
+    <description>(با هم در دنیای کریپتو و ایردراپ شیرجه میزنیم)</description>
     
     <!-- 2. تگ‌های ضروری آیتونز/اسپاتیفای -->
-    <itunes:author>نام مالک (SEPORDEX)</itunes:author>
-    <itunes:summary>توضیحات مفصل‌تر درباره پادکست (SeporDex)</itunes:summary>
+    <itunes:author>SeporDex</itunes:author>
+    <itunes:summary>با هم در دنیای کریپتو و ایردراپ شیرجه میزنیم (SeporDex)</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
     <itunes:owner>
-      <itunes:name>نام مالک (SEPORDEX)</itunes:name>
+      <itunes:name>SeporDex</itunes:name>
       <!-- ایمیل خود را برای تایید مالکیت در اینجا قرار دهید -->
-      <itunes:email>your-email@sepordex.com</itunes:email>
+      <itunes:email>sepordex.ir@gmail.com</itunes:email>
     </itunes:owner>
     
     <!-- 3. کاور اصلی پادکست (این کاور برای کل پادکست استفاده می‌شود) -->
     <image>
-      <url>https://لینک-عمومی-کاور-اصلی-پادکست.jpg</url>
-      <title>نام پادکست</title>
+      <url>https://sepordex.com/wp-content/uploads/2025/07/logo-type-512x512-1.png</url>
+      <title>SeporDex سپردکس</title>
       <link>https://sepordex.github.io</link>
     </image>
-    <itunes:image href="https://لینک-عمومی-کاور-اصلی-پادکست.jpg" />
+    <itunes:image href="https://sepordex.com/wp-content/uploads/2025/07/logo-type-512x512-1.png" />
     
     <!-- 4. دسته بندی (Category) -->
     <itunes:category text="Technology">
       <itunes:category text="Software" />
     </itunes:category>
     
-    <!-- در اینجا آیتم‌های جدید (اپیزودها) توسط n8n درج می‌شوند -->
+    <!-- در اینجا آیتم‌های جدید (اپیزودها) توسط درج می‌شوند -->
     
   
-<item>
-  <title>افزایش 4 درصدی XRP: آیا گاوهای بازار به دنبال شکست 3 دلار هستند؟</title>
-  <description><![CDATA[افزایش 4 درصدی XRP: آیا گاوهای بازار به دنبال شکست 3 دلار هستند؟ ارز دیجیتال XRP اخیراً با افزایش تقریباً 4 درصدی در طول روز، روند صعودی خود را ادامه ... <br><br> <p>برای اطلاعات بیشتر: به وبسایت خودتون سر بزنید <a href="https://sepordex.com">sepordex.com</a></p>]]></description>
-  <pubDate>Tue, 07 Oct 2025 20:51:35 GMT</pubDate>
-  
-  <!-- تگ اصلی برای فایل مدیا. برای ویدیو، نوع باید video/mp4 باشد -->
-  <enclosure url="https://drive.google.com/uc?export=download&id=1BtZpHATY3HxhXEsZJaPAYfUBoBxPyhuK" length="9492361" type="video/mp4" />
-  
-  <guid isPermaLink="false">1759870295703</guid>
-  
-  <!-- تگ استاندارد iTunes برای نمایش کاور هر اپیزود در Spotify و Apple -->
-  <itunes:image href="https://sepordex.com/wp-content/uploads/2025/09/wm_Crypto-News_XRP_20250809190056.jpg" />
-  
-  <!-- تگ‌های ضروری دیگر پادکست -->
-  <itunes:author>نام پادکستر یا کانال</itunes:author>
-  <itunes:explicit>no</itunes:explicit> 
-</item>
-
 </channel>
 </rss}
 
