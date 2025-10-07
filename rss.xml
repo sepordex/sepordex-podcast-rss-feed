@@ -1,1 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <!-- 1. اطلاعات اصلی پادکست شما -->
+    <title>نام پادکست سپردکس (SEPORDEX)</title>
+    <link>https://sepordex.github.io</link>
+    <language>fa-ir</language>
+    <atom:link href="https://sepordex.github.io/rss.xml" rel="self" type="application/rss+xml" />
+    <description>توضیحات کوتاه درباره محتوای پادکست (مثلاً: پادکست تخصصی در مورد تکنولوژی، تجارت و اتوماسیون صنعتی)</description>
+    
+    <!-- 2. تگ‌های ضروری آیتونز/اسپاتیفای -->
+    <itunes:author>نام مالک (SEPORDEX)</itunes:author>
+    <itunes:summary>توضیحات مفصل‌تر درباره پادکست و تخصص شما (SEPTECH)</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>نام مالک (SEPORDEX)</itunes:name>
+      <!-- ایمیل خود را برای تایید مالکیت در اینجا قرار دهید -->
+      <itunes:email>your-email@sepordex.com</itunes:email>
+    </itunes:owner>
+    
+    <!-- 3. کاور اصلی پادکست (این کاور برای کل پادکست استفاده می‌شود) -->
+    <image>
+      <url>https://لینک-عمومی-کاور-اصلی-پادکست.jpg</url>
+      <title>نام پادکست</title>
+      <link>https://sepordex.github.io</link>
+    </image>
+    <itunes:image href="https://لینک-عمومی-کاور-اصلی-پادکست.jpg" />
+    
+    <!-- 4. دسته بندی (Category) -->
+    <itunes:category text="Technology">
+      <itunes:category text="Software" />
+    </itunes:category>
+    
+    <!-- در اینجا آیتم‌های جدید (اپیزودها) توسط n8n درج می‌شوند -->
+    
+  </channel>
+</rss>
 
