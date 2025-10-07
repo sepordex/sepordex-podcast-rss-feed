@@ -33,5 +33,25 @@
     
     <!-- در اینجا آیتم‌های جدید (اپیزودها) توسط درج می‌شوند -->
 
+
+<item>
+  <title>تحلیل دوج کوین: فرصت‌های معاملاتی با الگوی گوه صعودی (DOGE)</title>
+  <description><![CDATA[تحلیل دوج کوین: فرصت‌های معاملاتی با الگوی گوه صعودی (DOGE) دوج کوین (DOGE)، یکی از محبوب‌ترین رمز ارزها در بازار کریپتوکارنسی، همواره مورد توجه معامل... <br><br> <p>برای اطلاعات بیشتر: به وبسایت خودتون سر بزنید <a href="https://sepordex.com">sepordex.com</a></p>]]></description>
+  <pubDate>Tue, 07 Oct 2025 22:20:36 GMT</pubDate>
+  
+  <!-- تگ اصلی برای فایل مدیا. برای ویدیو، نوع باید video/mp4 باشد -->
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Hxhsqjoa1uee_f8_9F6cQJ5rV2k2JXK-" length="2132256" type="video/mp4" />
+  
+  <guid isPermaLink="false">1759875636240</guid>
+  
+  <!-- تگ استاندارد iTunes برای نمایش کاور هر اپیزود در Spotify و Apple -->
+  <itunes:image href="https://sepordex.com/wp-content/uploads/2025/09/wm_Crypto-News_DOGE_20250806124512.jpg" />
+  
+  <!-- تگ‌های ضروری دیگر پادکست -->
+  <itunes:author>نام پادکستر یا کانال</itunes:author>
+  <itunes:explicit>no</itunes:explicit> 
+</item>
+
+
 </channel>
 </rss>
