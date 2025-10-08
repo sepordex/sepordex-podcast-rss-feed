@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <!-- 1. اطلاعات اصلی پادکست  -->
-    <title>SeporDex سپردکس(SEPORDEX)</title>
+    <title>SeporDex سپردکس</title>
     <link>https://sepordex.github.io</link>
     <language>fa-ir</language>
     <atom:link href="https://sepordex.github.io/rss.xml" rel="self" type="application/rss+xml" />
@@ -24,7 +24,7 @@
       <title>SeporDex سپردکس</title>
       <link>https://sepordex.github.io</link>
     </image>
-    <itunes:image href="https://sepordex.com/wp-content/uploads/2025/07/logo-type-512x512-1.png" />
+    <itunes:image href="https://sepordex.com/wp-content/uploads/2025/10/Sepordex_logo-type-sq-512x512-1.jpg" />
     
     <!-- 4. دسته بندی (Category) -->
     <itunes:category text="Technology">
