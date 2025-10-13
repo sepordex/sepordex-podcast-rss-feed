@@ -853,5 +853,25 @@
 </item>
 
 
+
+<item>
+  <title>اتریوم (ETH): تثبیت قیمت بالای میانگین‌های متحرک نمایی (EMA)</title>
+  <description><![CDATA[اتریوم (ETH): تثبیت قیمت بالای میانگین‌های متحرک نمایی (EMA) بازار ارزهای دیجیتال همواره با نوسانات فراوانی همراه است، اما برخی دارایی‌ها مانند اتریوم... <br><br> <p>برای اطلاعات بیشتر: به وبسایت خودتون سر بزنید <a href="https://sepordex.com">sepordex.com</a></p>]]></description>
+  <pubDate>Mon, 13 Oct 2025 08:50:07 GMT</pubDate>
+  
+  <!-- تگ اصلی برای فایل مدیا. برای ویدیو، نوع باید audio/mpeg باشد -->
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1P1x2Tpa5sZDRnMBHE-Ok01fjoMzC8Mb6" length="3426504" type="audio/mpeg" />
+  
+  <guid isPermaLink="false">1760345407667</guid>
+  
+  <!-- تگ استاندارد iTunes برای نمایش کاور هر اپیزود در Spotify و Apple -->
+  <itunes:image href="https://sepordex.com/wp-content/uploads/2025/09/wm_Crypto-News_ETHEREUM_20250817150036.jpg" />
+  
+  <!-- تگ‌های ضروری دیگر پادکست -->
+  <itunes:author>نام پادکستر یا کانال</itunes:author>
+  <itunes:explicit>no</itunes:explicit> 
+</item>
+
+
 </channel>
 </rss>
