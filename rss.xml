@@ -1093,5 +1093,25 @@
 </item>
 
 
+
+<item>
+  <title>ایردراپ Sonic Labs: آیا میلیونر می‌شوید یا فقط یک شایعه است؟</title>
+  <description><![CDATA[ایردراپ Sonic Labs: آیا میلیونر می‌شوید یا فقط یک شایعه است؟ در دنیای پرهیاهوی ارزهای دیجیتال، ایردراپ‌ها همواره یکی از جذاب‌ترین راه‌ها برای کسب توکن... <br><br> <p>برای اطلاعات بیشتر: به وبسایت خودتون سر بزنید <a href="https://sepordex.com">sepordex.com</a></p>]]></description>
+  <pubDate>Tue, 14 Oct 2025 20:50:20 GMT</pubDate>
+  
+  <!-- تگ اصلی برای فایل مدیا. برای ویدیو، نوع باید audio/mpeg باشد -->
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1PM0C3ElC2vsA0txvGEu96hQzlk2Xldli" length="3200344" type="audio/mpeg" />
+  
+  <guid isPermaLink="false">1760475020263</guid>
+  
+  <!-- تگ استاندارد iTunes برای نمایش کاور هر اپیزود در Spotify و Apple -->
+  <itunes:image href="https://sepordex.com/wp-content/uploads/2025/07/mGq9bwZW_400x400.jpg" />
+  
+  <!-- تگ‌های ضروری دیگر پادکست -->
+  <itunes:author>نام پادکستر یا کانال</itunes:author>
+  <itunes:explicit>no</itunes:explicit> 
+</item>
+
+
 </channel>
 </rss>
