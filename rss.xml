@@ -1593,5 +1593,25 @@
 </item>
 
 
+
+<item>
+  <title>پرایس اکشن ساده: درک مفاهیم HH, HL و روند صعودی</title>
+  <description><![CDATA[پرایس اکشن ساده: درک مفاهیم HH, HL و روند صعودی پرایس اکشن ساده. سقف بالاتر (Higher High)، کف بالاتر (Higher Low)، سقف بالاتر (Higher High)، کف بالاتر... <br><br> <p>برای اطلاعات بیشتر: به وبسایت خودتون سر بزنید <a href="https://sepordex.com">sepordex.com</a></p>]]></description>
+  <pubDate>Sat, 18 Oct 2025 23:50:33 GMT</pubDate>
+  
+  <!-- تگ اصلی برای فایل مدیا. برای ویدیو، نوع باید audio/mpeg باشد -->
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LulG6MQDZGcy4mqq0EijRQk_gJ8mHZXb" length="3911346" type="audio/mpeg" />
+  
+  <guid isPermaLink="false">1760831433380</guid>
+  
+  <!-- تگ استاندارد iTunes برای نمایش کاور هر اپیزود در Spotify و Apple -->
+  <itunes:image href="false" />
+  
+  <!-- تگ‌های ضروری دیگر پادکست -->
+  <itunes:author>نام پادکستر یا کانال</itunes:author>
+  <itunes:explicit>no</itunes:explicit> 
+</item>
+
+
 </channel>
 </rss>
