@@ -1773,5 +1773,25 @@
 </item>
 
 
+
+<item>
+  <title>بازپس‌گیری 50WMA توسط SOL/BTC: فصل آلت‌کوین‌ها رسماً آغاز شد!</title>
+  <description><![CDATA[اخبار هیجان‌انگیز از دنیای کریپتو: جفت ارز SOL/BTC با موفقیت خط میانگین متحرک وزنی 50 هفته‌ای (50WMA) را پس گرفت و به منطقه مورد علاقه (POI) بازگشت. ا... <br><br> <p>برای اطلاعات بیشتر: به وبسایت خودتون سر بزنید <a href="https://sepordex.com">sepordex.com</a></p>]]></description>
+  <pubDate>Mon, 20 Oct 2025 05:50:33 GMT</pubDate>
+  
+  <!-- تگ اصلی برای فایل مدیا. برای ویدیو، نوع باید audio/mpeg باشد -->
+  <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XHizlJq3vbmujfXt86FzUAGZIRO4QoEI" length="3454378" type="audio/mpeg" />
+  
+  <guid isPermaLink="false">1760939433174</guid>
+  
+  <!-- تگ استاندارد iTunes برای نمایش کاور هر اپیزود در Spotify و Apple -->
+  <itunes:image href="https://sepordex.com/wp-content/uploads/2025/09/wm_Crypto-News_Solana_20250815040036.jpg" />
+  
+  <!-- تگ‌های ضروری دیگر پادکست -->
+  <itunes:author>نام پادکستر یا کانال</itunes:author>
+  <itunes:explicit>no</itunes:explicit> 
+</item>
+
+
 </channel>
 </rss>
